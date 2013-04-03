@@ -14,6 +14,7 @@ Instructors: Titus Brown <ctb@msu.edu>, Karen Cranston
 .. toctree::
    :maxdepth: 2
 
+   install
    day1-morning
    day1-afternoon
    day2-morning
