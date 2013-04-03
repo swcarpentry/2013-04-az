@@ -1,0 +1,932 @@
+(dp1
+S'october 06'
+p2
+I18
+sS'november 20'
+p3
+I5
+sS'may 11'
+p4
+I25
+sS'july 16'
+p5
+I69
+sS'march 12'
+p6
+I3
+sS'march 15'
+p7
+I4
+sS'november 25'
+p8
+I1
+sS'april 12'
+p9
+I9
+sS'november 24'
+p10
+I1
+sS'october 03'
+p11
+I20
+sS'july 30'
+p12
+I68
+sS'july 31'
+p13
+I72
+sS'april 22'
+p14
+I17
+sS'may 09'
+p15
+I29
+sS'may 08'
+p16
+I33
+sS'may 07'
+p17
+I23
+sS'may 06'
+p18
+I14
+sS'may 05'
+p19
+I20
+sS'may 04'
+p20
+I20
+sS'may 03'
+p21
+I25
+sS'april 30'
+p22
+I19
+sS'may 01'
+p23
+I15
+sS'december 31'
+p24
+I3
+sS'december 12'
+p25
+I1
+sS'september 30'
+p26
+I23
+sS'december 10'
+p27
+I2
+sS'december 17'
+p28
+I1
+sS'december 02'
+p29
+I1
+sS'october 27'
+p30
+I9
+sS'february 12'
+p31
+I1
+sS'april 13'
+p32
+I15
+sS'december 19'
+p33
+I1
+sS'december 18'
+p34
+I1
+sS'february 16'
+p35
+I2
+sS'october 31'
+p36
+I11
+sS'october 30'
+p37
+I9
+sS'september 07'
+p38
+I44
+sS'may 19'
+p39
+I43
+sS'april 11'
+p40
+I16
+sS'april 10'
+p41
+I8
+sS'may 02'
+p42
+I23
+sS'july 09'
+p43
+I69
+sS'july 08'
+p44
+I76
+sS'april 20'
+p45
+I13
+sS'march 08'
+p46
+I1
+sS'september 29'
+p47
+I21
+sS'september 28'
+p48
+I38
+sS'december 13'
+p49
+I1
+sS'july 05'
+p50
+I68
+sS'july 04'
+p51
+I86
+sS'july 07'
+p52
+I72
+sS'july 06'
+p53
+I82
+sS'july 01'
+p54
+I87
+sS'september 20'
+p55
+I45
+sS'july 03'
+p56
+I70
+sS'july 02'
+p57
+I82
+sS'march 10'
+p58
+I3
+sS'september 25'
+p59
+I32
+sS'april 15'
+p60
+I7
+sS'march 13'
+p61
+I3
+sS'march 14'
+p62
+I6
+sS'april 19'
+p63
+I15
+sS'march 16'
+p64
+I4
+sS'september 24'
+p65
+I30
+sS'march 18'
+p66
+I2
+sS'march 19'
+p67
+I4
+sS'april 18'
+p68
+I17
+sS'september 27'
+p69
+I41
+sS'april 21'
+p70
+I18
+sS'september 26'
+p71
+I26
+sS'december 07'
+p72
+I2
+sS'september 21'
+p73
+I40
+sS'december 05'
+p74
+I1
+sS'december 21'
+p75
+I1
+sS'october 29'
+p76
+I10
+sS'september 23'
+p77
+I35
+sS'september 22'
+p78
+I29
+sS'december 22'
+p79
+I1
+sS'august 31'
+p80
+I55
+sS'august 30'
+p81
+I54
+sS'july 18'
+p82
+I90
+sS'july 19'
+p83
+I77
+sS'september 15'
+p84
+I35
+sS'december 01'
+p85
+I2
+sS'july 12'
+p86
+I97
+sS'july 13'
+p87
+I76
+sS'july 10'
+p88
+I79
+sS'july 11'
+p89
+I62
+sS'november 27'
+p90
+I2
+sS'july 17'
+p91
+I82
+sS'july 14'
+p92
+I74
+sS'july 15'
+p93
+I81
+sS'november 06'
+p94
+I5
+sS'february 27'
+p95
+I2
+sS'march 01'
+p96
+I4
+sS'december 03'
+p97
+I1
+sS'march 07'
+p98
+I2
+sS'march 06'
+p99
+I4
+sS'march 05'
+p100
+I3
+sS'march 04'
+p101
+I4
+sS'december 04'
+p102
+I3
+sS'march 09'
+p103
+I4
+sS'march 03'
+p104
+I3
+sS'april 28'
+p105
+I20
+sS'november 15'
+p106
+I2
+sS'april 01'
+p107
+I2
+sS'march 29'
+p108
+I5
+sS'may 30'
+p109
+I46
+sS'august 16'
+p110
+I76
+sS'september 09'
+p111
+I50
+sS'march 17'
+p112
+I4
+sS'february 24'
+p113
+I1
+sS'december 08'
+p114
+I2
+sS'november 03'
+p115
+I13
+sS'december 09'
+p116
+I2
+sS'november 09'
+p117
+I6
+sS'november 08'
+p118
+I9
+sS'august 22'
+p119
+I52
+sS'august 23'
+p120
+I54
+sS'august 20'
+p121
+I58
+sS'august 21'
+p122
+I63
+sS'august 26'
+p123
+I65
+sS'august 27'
+p124
+I56
+sS'august 24'
+p125
+I65
+sS'august 25'
+p126
+I53
+sS'november 30'
+p127
+I3
+sS'april 08'
+p128
+I12
+sS'august 28'
+p129
+I46
+sS'august 29'
+p130
+I53
+sS'december 26'
+p131
+I2
+sS'december 27'
+p132
+I1
+sS'june 11'
+p133
+I64
+sS'march 21'
+p134
+I7
+sS'may 16'
+p135
+I33
+sS'march 30'
+p136
+I9
+sS'march 20'
+p137
+I6
+sS'september 18'
+p138
+I43
+sS'november 07'
+p139
+I11
+sS'february 23'
+p140
+I2
+sS'october 07'
+p141
+I20
+sS'october 04'
+p142
+I27
+sS'october 05'
+p143
+I24
+sS'october 02'
+p144
+I25
+sS'february 26'
+p145
+I3
+sS'february 25'
+p146
+I4
+sS'october 01'
+p147
+I29
+sS'march 25'
+p148
+I2
+sS'february 28'
+p149
+I2
+sS'october 08'
+p150
+I23
+sS'october 09'
+p151
+I20
+sS'november 26'
+p152
+I1
+sS'august 19'
+p153
+I68
+sS'september 19'
+p154
+I39
+sS'november 02'
+p155
+I9
+sS'march 31'
+p156
+I6
+sS'august 17'
+p157
+I93
+sS'march 28'
+p158
+I11
+sS'august 15'
+p159
+I59
+sS'august 14'
+p160
+I66
+sS'august 13'
+p161
+I77
+sS'august 12'
+p162
+I73
+sS'august 11'
+p163
+I79
+sS'august 10'
+p164
+I79
+sS'november 05'
+p165
+I12
+sS'november 04'
+p166
+I8
+sS'march 23'
+p167
+I4
+sS'march 22'
+p168
+I3
+sS'november 01'
+p169
+I10
+sS'march 24'
+p170
+I3
+sS'march 27'
+p171
+I6
+sS'august 18'
+p172
+I74
+sS'june 09'
+p173
+I55
+sS'june 08'
+p174
+I62
+sS'june 07'
+p175
+I58
+sS'june 06'
+p176
+I52
+sS'june 05'
+p177
+I46
+sS'june 04'
+p178
+I56
+sS'june 03'
+p179
+I60
+sS'june 02'
+p180
+I52
+sS'june 01'
+p181
+I61
+sS'december 16'
+p182
+I1
+sS'october 15'
+p183
+I12
+sS'may 10'
+p184
+I32
+sS'october 17'
+p185
+I22
+sS'october 16'
+p186
+I15
+sS'october 11'
+p187
+I28
+sS'october 10'
+p188
+I15
+sS'october 13'
+p189
+I12
+sS'october 12'
+p190
+I18
+sS'november 23'
+p191
+I4
+sS'october 19'
+p192
+I19
+sS'july 21'
+p193
+I88
+sS'august 08'
+p194
+I78
+sS'august 09'
+p195
+I73
+sS'april 29'
+p196
+I18
+sS'february 13'
+p197
+I1
+sS'august 01'
+p198
+I74
+sS'august 02'
+p199
+I79
+sS'august 03'
+p200
+I75
+sS'august 04'
+p201
+I77
+sS'august 05'
+p202
+I86
+sS'august 06'
+p203
+I83
+sS'august 07'
+p204
+I62
+sS'november 12'
+p205
+I4
+sS'november 13'
+p206
+I3
+sS'november 10'
+p207
+I7
+sS'november 11'
+p208
+I8
+sS'november 16'
+p209
+I2
+sS'june 30'
+p210
+I82
+sS'december 11'
+p211
+I2
+sS'may 31'
+p212
+I49
+sS'december 06'
+p213
+I2
+sS'november 18'
+p214
+I4
+sS'november 19'
+p215
+I8
+sS'april 04'
+p216
+I9
+sS'april 05'
+p217
+I9
+sS'april 06'
+p218
+I6
+sS'april 07'
+p219
+I13
+sS'june 18'
+p220
+I78
+sS'june 19'
+p221
+I73
+sS'april 02'
+p222
+I11
+sS'april 03'
+p223
+I9
+sS'june 14'
+p224
+I61
+sS'june 15'
+p225
+I64
+sS'june 16'
+p226
+I62
+sS'june 17'
+p227
+I78
+sS'june 10'
+p228
+I60
+sS'april 09'
+p229
+I13
+sS'june 12'
+p230
+I71
+sS'june 13'
+p231
+I62
+sS'november 21'
+p232
+I2
+sS'february 04'
+p233
+I1
+sS'february 07'
+p234
+I1
+sS'april 17'
+p235
+I16
+sS'july 20'
+p236
+I83
+sS'october 14'
+p237
+I10
+sS'may 17'
+p238
+I40
+sS'february 10'
+p239
+I1
+sS'november 17'
+p240
+I2
+sS'september 14'
+p241
+I35
+sS'march 11'
+p242
+I5
+sS'december 29'
+p243
+I2
+sS'february 15'
+p244
+I1
+sS'may 25'
+p245
+I38
+sS'may 24'
+p246
+I45
+sS'may 27'
+p247
+I46
+sS'may 26'
+p248
+I47
+sS'may 21'
+p249
+I30
+sS'may 20'
+p250
+I54
+sS'may 23'
+p251
+I38
+sS'may 22'
+p252
+I40
+sS'may 29'
+p253
+I46
+sS'may 28'
+p254
+I55
+sS'june 29'
+p255
+I71
+sS'june 28'
+p256
+I75
+sS'september 16'
+p257
+I41
+sS'september 17'
+p258
+I31
+sS'september 10'
+p259
+I48
+sS'september 11'
+p260
+I47
+sS'september 12'
+p261
+I44
+sS'september 13'
+p262
+I42
+sS'june 21'
+p263
+I55
+sS'june 20'
+p264
+I64
+sS'june 23'
+p265
+I61
+sS'june 22'
+p266
+I78
+sS'june 25'
+p267
+I61
+sS'june 24'
+p268
+I73
+sS'june 27'
+p269
+I67
+sS'june 26'
+p270
+I71
+sS'march 26'
+p271
+I4
+sS'november 14'
+p272
+I3
+sS'may 14'
+p273
+I46
+sS'may 15'
+p274
+I32
+sS'november 29'
+p275
+I1
+sS'october 18'
+p276
+I11
+sS'november 28'
+p277
+I4
+sS'april 16'
+p278
+I13
+sS'april 14'
+p279
+I16
+sS'july 23'
+p280
+I85
+sS'july 22'
+p281
+I78
+sS'may 12'
+p282
+I27
+sS'may 13'
+p283
+I30
+sS'july 27'
+p284
+I81
+sS'july 26'
+p285
+I84
+sS'july 25'
+p286
+I76
+sS'july 24'
+p287
+I85
+sS'may 18'
+p288
+I34
+sS'april 23'
+p289
+I16
+sS'july 29'
+p290
+I64
+sS'july 28'
+p291
+I89
+sS'april 26'
+p292
+I16
+sS'april 27'
+p293
+I17
+sS'april 24'
+p294
+I14
+sS'april 25'
+p295
+I26
+sS'october 28'
+p296
+I8
+sS'september 06'
+p297
+I41
+sS'september 05'
+p298
+I56
+sS'september 04'
+p299
+I58
+sS'september 03'
+p300
+I46
+sS'september 02'
+p301
+I44
+sS'september 01'
+p302
+I52
+sS'november 22'
+p303
+I6
+sS'october 20'
+p304
+I12
+sS'october 21'
+p305
+I9
+sS'october 22'
+p306
+I12
+sS'october 23'
+p307
+I12
+sS'october 24'
+p308
+I18
+sS'october 25'
+p309
+I13
+sS'october 26'
+p310
+I7
+sS'september 08'
+p311
+I45
+s.
