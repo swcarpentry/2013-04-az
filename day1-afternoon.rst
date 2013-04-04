@@ -8,6 +8,23 @@ Doing data analysis
 
 .. @@ put notebooks here?
 
+A bit more IPython Notebook and matplotlib
+------------------------------------------
+
+`The whole IPython Notebook gallery <https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks>`__
+
+See: http://ged.msu.edu/papers/2012-diginorm/ for an example of a paper
+where all the figures were generated with ipynb.
+
+Matplotlib gallery: http://matplotlib.org/gallery.html
+
+Note that you can use ::
+
+   %loadpy http://matplotlib.org/mpl_examples/api/bbox_intersect.py
+
+on the source code in the gallery links to load the code into ipynb
+and execute it.
+
 Testing
 -------
 
