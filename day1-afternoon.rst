@@ -6,7 +6,7 @@ Doing data analysis
 
 (Karen Cranston)
 
-.. @ put notebooks here?
+.. @@ put notebooks here?
 
 Testing
 -------
@@ -34,7 +34,7 @@ Regression tests address *the overall function of code*, and
 they are used to make sure that your code is doing the same
 thing *today* as it was *yesterday*.
 
-I'll show you examples of both, but quickly :).
+I'll show you examples of both.
 
 Writing tests
 ~~~~~~~~~~~~~

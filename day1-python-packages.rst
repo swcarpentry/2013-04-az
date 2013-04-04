@@ -80,11 +80,7 @@ To install screed directly from github, do::
 
 screed can read FASTA and FASTQ files, as well as gzip or bzip2 versions
 of those files.  For example, in the python directory there is a file
-called '25k.fq.gz'; check it out::
-
-   gunzip -c 2012-11-scripps/python/25k.fq.gz | less
-
-(type 'q' to get out of less, and space bar to scroll through the file.)
+called '25k.fq.gz'.
 
 **Note:**
 
@@ -102,8 +98,10 @@ in Python. Try::
 
 A couple of points here.
 
-First, there are 25,000 sequences in this file.  You might want to avoid
-printing them all out (hence the 'break' command at the end of the loop!)
+First, there are 25,000 sequences in this file.  You might want to
+avoid printing them all out (hence the 'break' command at the end of
+the loop!)  This is a typical approach to reading through big files --
+just put in a "if I've done more than 10 things, stop"
 
 Second, you can use this for short read data or genomic sequences or
 whatever.  We've mostly designed it for short-read data but it works
@@ -156,46 +154,3 @@ Another example -- ::
       outfp.write('>%s\n%s\n' % (record.name, record.sequence))
 
 This converts FASTQ to FASTA.
-
-(Does anyone want to see random access?)
-
-blastparser
-~~~~~~~~~~~
-
-blastparser is another little Python package from Titus's lab
-that reads in BLAST output and makes it accessible to Python.
-This is really the only documentation :).
-
-To install blastparser directly from github, do::
-
-   pip install git+https://github.com/ged-lab/blastparser.git
-
-blastparser is both less mature and more complicated to use than
-screed, because BLAST files are more complicated than FASTA files.
-
-Before we move forward, let's look at a BLAST output file -- check out
-2012-11-scripps/python/sample-blast.txt::
-
-   less python/sample-blast.txt
-
-Each query is a record; each record has a bunch of hits; each hit has
-a bunch of matches!
-
-Here's how blastparser does it::
-
-   import blastparser
-   fp = open('python/sample-blast.txt')
-   for record in blastparser.parse_fp(fp):
-       for hit in record.hits:
-           for match in hit.matches:
-               print record.query_name, hit.subject_name
-	       print match.subject_start, match.query_start
-	       print match.subject_end, match.query_end
-       break
-
-A few things to cover --
-
- * figuring out what is stored in each object
- * print out to csv
-
-See `using-blastparser.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2012-11-scripps/master/python/using-blastparser.ipynb>`__.
