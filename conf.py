@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'labibi'
+project = u'2013 Arizona Software Carpentry'
 copyright = u'2012, C. Titus Brown'
 
 # The version info for the project you're documenting, acts as replacement for
