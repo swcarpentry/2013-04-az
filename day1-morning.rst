@@ -33,7 +33,7 @@ Git quick guide:
  - to retrieve the materials for the class, do::
 
       git clone https://github.com/swcarpentry/2013-04-az.git
-      cd 2013-04-az 
+      cd 2013-04-az/notebooks
 
    at the shell prompt.
 
