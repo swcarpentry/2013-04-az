@@ -111,3 +111,8 @@ at the boot camp.
 For other options check the Python4Astronomers page on `installing
 scientific Python
 <http://python4astronomers.github.com/installation/python_install.html>`__.
+
+Technical details
+-----------------
+
+See: http://software-carpentry.org/setup/

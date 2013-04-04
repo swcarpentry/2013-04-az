@@ -13,6 +13,10 @@
 
 import sys, os
 
+# If building on readthedocs.org, you can use the following test:
+# on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -167,6 +171,15 @@ html_style = 'labibi.css'
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'labibidoc'
 
+##
+# Various settings to pass to templates:
+
+html_context = {
+   "google_analytics_id" : '',
+   "disqus_shortname" : '2013-swc-az',
+   "github_base_account" : 'swcarpentry',
+   "github_project" : '2013-swc-az',
+}
 
 # -- Options for LaTeX output --------------------------------------------------
 
