@@ -9,7 +9,7 @@ April 2013 Software Carpentry at Arizona
 Instructors: Titus Brown <ctb@msu.edu>, Karen Cranston
 <karen.cranston@nescent.org>, and Rich Enbody <enbody@msu.edu>.
 
-`The Etherpad Link <http://openetherpad.org/oYBcyQ6ROS>`__.
+`The Google Docs link <https://docs.google.com/document/d/180QIKxhtM4bbbYAdUbO6_dSWMoSFACe3dxrzwh7emjE/edit?usp=sharing> `__.
 
 9:30am-4:30pm, April 4th and April 5th, 2013.
 
