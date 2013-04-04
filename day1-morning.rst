@@ -50,6 +50,11 @@ IPython Notebook quick guide:
    in the directory containing your notebook files.  A Web view of the
    notebook should pop up.
 
+ - executing code ::
+
+      shift-ENTER -- to execute current "code cell" and move to next
+      ctrl-ENTER -- to execute current "code cell" and stay
+
 Python installing guide:
 
  - run, variously, one of ::
