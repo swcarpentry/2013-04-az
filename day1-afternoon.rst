@@ -1,9 +1,13 @@
 Day 1 / Afternoon
 =================
 
-Organizing code and doing data analysis
----------------------------------------
+Doing data analysis
+-------------------
+
+(Karen Cranston)
 
 Testing and code organization
 -----------------------------
+
+(Titus Brown)
 
