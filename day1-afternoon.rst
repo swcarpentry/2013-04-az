@@ -90,6 +90,8 @@ and also
 Installing Python packages; useful Python packages
 --------------------------------------------------
 
+Using pip, which is an interface to `PyPi <https://pypi.python.org/pypi>`__
+
 See :doc:`day1-python-packages`
 
 ----
