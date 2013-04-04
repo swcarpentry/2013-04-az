@@ -68,3 +68,9 @@ Applying Python basics to data analysis
 ---------------------------------------
 
 (Rich Enbody)
+
+`Counting birds (full of code) <https://raw.github.com/swcarpentry/2013-04-az/master/notebooks/10-introducing-bird-counting-FULL.ipynb>`__
+
+`Counting birds (empty) - for the intrepid <https://raw.github.com/swcarpentry/2013-04-az/master/notebooks/10-introducing-bird-counting-EMPTY.ipynb>`__
+
+`Generating the raw data -- for the interested <https://raw.github.com/swcarpentry/2013-04-az/master/notebooks/99-generate-lots-of-birds.ipynb>`__
