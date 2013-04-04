@@ -43,8 +43,12 @@ Git quick guide:
 
 IPython Notebook quick guide:
 
- - run 'ipython notebook --pylab=inline' in the directory containing your
-   notebook files.  A Web view of the notebook should pop up.
+ - run ::
+
+      ipython notebook --pylab=inline
+
+   in the directory containing your notebook files.  A Web view of the
+   notebook should pop up.
 
 Python installing guide:
 
