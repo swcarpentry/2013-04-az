@@ -35,7 +35,9 @@ Git quick guide:
       git clone https://github.com/swcarpentry/2013-04-az.git
       cd 2013-04-az/notebooks
 
-   at the shell prompt.
+   at the shell prompt.  On Windows, you may need to use Git Bash
+   to create the directory, and then cmd.exe to run ipython notebook (see
+   below).
 
  - to update the materials, do::
 
@@ -49,6 +51,14 @@ IPython Notebook quick guide:
 
    in the directory containing your notebook files.  A Web view of the
    notebook should pop up.
+
+   If you're using Anaconda, you can type::
+
+      c:\anaconda\scripts\ipython notebook --pylab=inline
+
+   The trick will be running this in the correct directory, but you have
+   a little bit of time to figure this out because we won't start with
+   a preexisting notebook.
 
  - executing code ::
 
