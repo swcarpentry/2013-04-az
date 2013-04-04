@@ -74,3 +74,5 @@ Installing Python packages; useful Python packages
 --------------------------------------------------
 
 See :doc:`day1-python-packages`
+
+----
