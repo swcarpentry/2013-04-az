@@ -21,7 +21,7 @@ Reload to get the latest links!
 
 Commenting
 
-Here's an Etherpad that we'll paste stuff into: `the etherpad link <http://openetherpad.org/oYBcyQ6ROS>`__.
+Here's a Google Doc that we'll paste stuff into: `<https://docs.google.com/document/d/180QIKxhtM4bbbYAdUbO6_dSWMoSFACe3dxrzwh7emjE/edit?usp=sharing>`__.
 
 Intro technology, and Python basics
 -----------------------------------
