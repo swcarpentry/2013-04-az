@@ -88,3 +88,4 @@ Applying Python basics to data analysis
 
 `Generating the raw data -- for the interested <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/99-generate-lots-of-birds.ipynb>`__
 
+`Rich's final notebook <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/10-introducing-bird-counting-RICH.ipynb>`__

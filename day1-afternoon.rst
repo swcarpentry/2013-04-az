@@ -6,7 +6,7 @@ Doing data analysis
 
 (Karen Cranston)
 
-.. @@ put notebooks here?
+See `the IPython Notebook, numpy-and-graphing.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/numpy-and-graphing.ipynb>`__.
 
 A bit more IPython Notebook and matplotlib
 ------------------------------------------
@@ -29,6 +29,9 @@ Testing
 -------
 
 (Titus Brown)
+
+See `the IPython Notebook, testing-with-nose.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/testing-with-nose.ipynb>`__.
+
 
 When we say "testing" we really mean *automated testing*.
 The central problems addressed by testing are *correctness* and
@@ -90,6 +93,12 @@ and also
 Installing Python packages; useful Python packages
 --------------------------------------------------
 
+Using pip, which is an interface to `PyPi <https://pypi.python.org/pypi>`__
+
 See :doc:`day1-python-packages`
 
+Also see `the IPython Notebook, using-screed.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/using-screed.ipynb>`__.
+
 ----
+
+Done!

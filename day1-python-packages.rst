@@ -154,3 +154,6 @@ Another example -- ::
       outfp.write('>%s\n%s\n' % (record.name, record.sequence))
 
 This converts FASTQ to FASTA.
+
+Also see `the IPython Notebook, using-screed.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/using-screed.ipynb>`__.
+
