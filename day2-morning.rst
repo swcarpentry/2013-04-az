@@ -6,12 +6,21 @@ Scripting with Python, and running scripts at command line
 
 (Rich Enbody)
 
-.. @@links to final files
+The final script from this section is available as:
+
+   https://github.com/swcarpentry/2013-04-az/blob/master/scripts/birds.py
+
+or as 'scripts/birds.py'.  Note that the data is in 'data/birds.csv'.
 
 How computers work; online editing at github
 --------------------------------------------
 
 (Titus Brown)
+
+.. image:: ./swc-computer-diagram.png
+
+Github
+~~~~~~
 
 Please sign up for an account at http://github.com/, and then log in.
 
