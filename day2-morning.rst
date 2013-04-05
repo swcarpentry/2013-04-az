@@ -13,6 +13,11 @@ How computers work; online editing at github
 
 (Titus Brown)
 
+.. image:: ./swc-computer-diagram.png
+
+Github
+~~~~~~
+
 Please sign up for an account at http://github.com/, and then log in.
 
 We will:

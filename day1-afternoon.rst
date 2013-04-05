@@ -99,6 +99,6 @@ See :doc:`day1-python-packages`
 
 Also see `the IPython Notebook, using-screed.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/using-screed.ipynb>`__.
 
-
-
 ----
+
+Done!
