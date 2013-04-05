@@ -6,7 +6,7 @@ Doing data analysis
 
 (Karen Cranston)
 
-.. @@ put notebooks here?
+See `the IPython Notebook, numpy-and-graphing.ipynb <http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/2013-04-az/master/notebooks/numpy-and-graphing.ipynb>`__.
 
 A bit more IPython Notebook and matplotlib
 ------------------------------------------
