@@ -23,6 +23,7 @@ The `Google Docs link <https://docs.google.com/document/d/180QIKxhtM4bbbYAdUbO6_
    day1-afternoon
    day2-morning
    day2-afternoon
+   wrapping-up
 
 Indices and tables
 ==================
