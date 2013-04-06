@@ -11,6 +11,8 @@ Instructors: Titus Brown <ctb@msu.edu>, Karen Cranston
 
 The `Google Docs link <https://docs.google.com/document/d/180QIKxhtM4bbbYAdUbO6_dSWMoSFACe3dxrzwh7emjE/edit?usp=sharing>`__.
 
+:doc:`resources`
+
 9:30am-4:30pm, April 4th and April 5th, 2013.
 
 .. toctree::
