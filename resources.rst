@@ -12,6 +12,10 @@ They have office hours in Gould-Simpson 737, Monday 11-1 and Wednesday
 Contact WICS officers at uofa.wics@gmail.com, if they aren't too busy
 they are happy to help with questions.
 
+WICS has also created a Python quick refence sheet, which can be found
+at http://goo.gl/Jo4nU. On the last page is a list of Python tutorials,
+at varying levels.
+
 Tucson has the Tucson Python Language Enthusiasts
 (http://tuplegroup.appspot.com/) who would be happy to help you.
 
